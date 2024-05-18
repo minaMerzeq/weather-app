@@ -17,3 +17,4 @@ npm install
 npm start
 ```
 6. Once the development server is running, open your web browser and navigate to the specified address (usually `http://localhost:3000`) to view the application.
+7. Make sure Backend project is running for getting weather data!
